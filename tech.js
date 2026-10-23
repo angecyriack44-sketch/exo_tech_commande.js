@@ -20,3 +20,7 @@ console.log("TVA(18%):",montant_tva,"FCFA");
 console.log("Montant TTC:",montant_total_ttc,"FCFA");
 console.log("Livraison:", frais_de_livraison,"FCFA");
 console.log("");
+console.log("Prix moyen TTC par produit:", prix_moyen,"FCFA");
+console.log("Type du nom:", typeof Nom_du_client);
+console.log("Type du prix:", typeof Prix_unitaire);
+console.log("Type de la quantité:", typeof quantite);
